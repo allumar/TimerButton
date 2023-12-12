@@ -1,0 +1,18 @@
+/* styles.css */
+.timer-container {
+    text-align: center;
+    margin: 50px;
+}
+
+#timer-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#timer {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
